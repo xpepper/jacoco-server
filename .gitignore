@@ -1,2 +1,4 @@
 /target/
-/jacoco-server.exec
+*.exec
+*.iml
+.idea
